@@ -50,7 +50,7 @@ The game board is represented as a 3x3 grid. The player's moves are represented 
 ### Compiling
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/wii-tic-tac-toe.git
+    git clone https://github.com/Phi1lS/wii-tic-tac-toe.git
     cd wii-tic-tac-toe
     ```
 2. Make sure you have **DevKitPro** and **GRRLIB** installed.
