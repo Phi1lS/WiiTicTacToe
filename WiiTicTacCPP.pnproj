@@ -1,0 +1,1 @@
+<Project name="Tutorial"><MagicFolder excludeFiles="*.pnproj;*.pnps;*.bak;*.tmp" excludeFolders="CVS;.svn" filter="*.c;*.cpp;*.h" name="source" path="source\"><File path="Board.h"></File><File path="contb.h"></File><File path="main.cpp"></File><File path="player1_point.h"></File></MagicFolder><File path="Makefile"></File></Project>
